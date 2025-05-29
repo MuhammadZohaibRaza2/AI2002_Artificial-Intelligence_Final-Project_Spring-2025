@@ -17,7 +17,7 @@ This repository contains the implementation of an AI controller for the **Simula
 * **Muhammad Haziq Naeem**
   *Recorded data from diverse tracks and assisted in data preprocessing.*
 
-📅 **Date**: May 29, 2025
+📅 **Date**: May 11, 2025
 
 ---
 
@@ -174,7 +174,7 @@ Fork the repo and create a pull request with your improvements:
 
 ## ⚖️ License
 
-**MIT**
+This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software with proper attribution. See the `LICENSE` file for more details.
 
 ---
 
